@@ -1,3 +1,40 @@
-body {background-color:#F0E9B6;}
-h1{color:#792CA2;}
-p{color:#C13383;}
+body {
+	background-color:#F0E9B6;
+	}
+
+h1 {
+   color:#792CA2;
+   text-align:center;
+   font-size:150 pt;
+   font-weight:normal;
+   font-family:sans-serif;
+   font-style:italic;
+}
+   
+p {
+   color:#C13383;
+   background-color:#ACCFA3;
+   padding:0.6em;
+   margin:auto;
+   margin-bottom:2em;
+   border: 2px dashed black;
+   width:50%;
+   min-width:40em;
+}
+
+.kanan { text-align:right; }
+.kiri { text-align:left; }
+.tengah { text-align:center; }
+
+.backgroundcl { background-color:#B4D3D9; }
+.backgroundck { background-color:#FAEB92; }
+.backgroundcy { background-color:#E491C9; }
+
+div{
+	text-align:center;
+}
+
+a {
+	color:#DE1A58;
+	text-decoration:none;
+}
